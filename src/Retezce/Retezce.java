@@ -6,7 +6,6 @@ public class Retezce {
     public static void main(String[] args) {
         String a = null;
 
-
         if ("".equals(a)) System.out.println("ano");
         else System.out.println("ne");
 
@@ -17,6 +16,5 @@ public class Retezce {
         //null je naprd při porovnávání, protože to často dá chybovou hlášku - řešení - "".equals()
         //když mam 2 proměnné, ale jedna z nich je deklarovaná String a = new String ("x"), tak se to nerovná
         //.toLowerCase()/.toUpperCase()
-
         }
     }
