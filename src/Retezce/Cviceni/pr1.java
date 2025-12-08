@@ -1,4 +1,4 @@
-package Retezce;
+package Retezce.Cviceni;
 
 public class pr1 {
     public static void main(String[] args) {

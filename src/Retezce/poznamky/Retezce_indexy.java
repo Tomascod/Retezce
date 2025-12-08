@@ -1,4 +1,4 @@
-package Retezce;
+package Retezce.poznamky;
 
 public class Retezce_indexy {
     public static void main(String[] args) {
