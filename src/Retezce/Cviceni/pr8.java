@@ -2,7 +2,7 @@ package Retezce.Cviceni;
 
 public class pr8 {
     public static void main(String[] args) {
-        String jmeno = "ToMÁŠ kOdÝdeK";
+        String jmeno = "tOMÁŠ kOdÝDeK";
         String[] rozdeleni = jmeno.split(" ");
 
         String krestni =  rozdeleni[0].substring(0,1).toUpperCase() + rozdeleni[0].substring(1).toLowerCase();

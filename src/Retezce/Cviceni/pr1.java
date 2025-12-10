@@ -3,7 +3,7 @@ package Retezce.Cviceni;
 public class pr1 {
     public static void main(String[] args) {
         String[] jmena = {"Tomáš","Petr","Eva","Natálie","Ben"};
-        String uzivJmeno = "Petr";
+        String uzivJmeno = "Ben";
         boolean ano = false;
 
         for (int i = 0; i <= jmena.length-1 ; i++) {

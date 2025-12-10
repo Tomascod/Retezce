@@ -2,7 +2,7 @@ package Retezce.Cviceni;
 
 public class pr2 {
     public static void main(String[] args) {
-        String text = "pssko";
+        String text = "kočka";
         boolean ano = false;
         for (int i = 0; i <= text.length()-1; i++) {
             if(Character.isUpperCase(text.charAt(i))){
