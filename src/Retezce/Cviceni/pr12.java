@@ -22,6 +22,5 @@ public class pr12 {
             }
         }
         System.out.println(slovoPredelane);
-
     }
 }
